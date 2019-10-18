@@ -1,0 +1,7 @@
+D:\BootCamp07\C#\Repos\CB7_Assignments\Assignment_1\bin\Debug\Assignment_1.exe.config
+D:\BootCamp07\C#\Repos\CB7_Assignments\Assignment_1\bin\Debug\Assignment_1.exe
+D:\BootCamp07\C#\Repos\CB7_Assignments\Assignment_1\bin\Debug\Assignment_1.pdb
+D:\BootCamp07\C#\Repos\CB7_Assignments\Assignment_1\obj\Debug\Assignment_1.csprojAssemblyReference.cache
+D:\BootCamp07\C#\Repos\CB7_Assignments\Assignment_1\obj\Debug\Assignment_1.csproj.CoreCompileInputs.cache
+D:\BootCamp07\C#\Repos\CB7_Assignments\Assignment_1\obj\Debug\Assignment_1.exe
+D:\BootCamp07\C#\Repos\CB7_Assignments\Assignment_1\obj\Debug\Assignment_1.pdb
